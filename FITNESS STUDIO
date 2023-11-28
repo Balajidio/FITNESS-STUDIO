@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title style="color: red;">My Webpage</title>
+  <style>
+    body {
+      background-image:url('https://5.imimg.com/data5/FK/LL/MY-6826615/gym-interior.jpg');
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
+
+  h1 {
+  background-color: #3b8bd6;
+}
+
+  </style>
+</head>
+<body>
+   <center> <img align ="center"src="iron paradise.png" width="400" height="300" style="border-style: dashed;border-color: whitesmoke;"></center>
+  <header>
+    <center> <h1 style="color: rgb(22, 6, 8); border-style: double; border-color: red;">IRON PARADISE FITNESS STUDIO</h1></center>
+    <nav>
+      
+    </nav>
+  </header>
+  <div>
+    <marquee> <h1<strong>CARDIO,BADMINTON COURT,WEIGHT GAINING,PERSONAL TRAINING,STRENGTH TRAINING</strong></h1></marquee>
+    <marquee direction="right"
+            style="border: 0ch;">
+    </marquee>
+  </div> 
+  <section><center>
+    
+      <form >
+    
+        <label for="name" style="color: aliceblue;"><b style="font-size:larger;">NAME:</b></label>
+        <input type="text" id="name" name="name" required>
+        <br>
+        <br>
+        <label for="email" style="color: aliceblue;"><b>EMAIL:</b></label>
+        <input type="email" id="email" name="email" required>
+<br>
+<br>
+<label for="REGISTER" style="color: rgba(243, 235, 235, 0.986);"><b>REGISTER:</b></label>
+<input type="REGISTER" id="email" name="REGISTER" required>
+<br>
+<br>
+        <input type="submit" value="Submit">
+      </form>
+    </center>
+    </section>
+  </main>
+  <img src="iron paradise.gif"
+
+ 
+
+</html>
